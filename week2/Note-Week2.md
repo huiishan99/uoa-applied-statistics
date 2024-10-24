@@ -37,9 +37,13 @@ $F\cup G \in \mathcal{F}$
 $$
 \begin{split}	
 \text{ Events} = 	
-\begin{cases}	 \text{black, purple, white,  yellow} \ &(\text{Human}) \\	\text{black, white, deep purple, green, yellow} \ &(\text{Bees}) 	
+\begin{cases}	 
+\text{black, purple, white,  yellow}\ &(\text{Human}) 
+\\
+\text{black, white, deep purple, green, yellow}\ &(\text{Bees}) 	
 \end{cases} 	
-\\ \rightsquigarrow \text{ ``Measurable'' sets are different on the same sample space!}			
+\\
+\rightsquigarrow \text{``Measurable'' sets are different on the same sample space!}
 \end{split}
 $$
 
