@@ -29,4 +29,4 @@ $$\int_{-\infty}^{+\infty} \frac{x}{\sigma\sqrt{2\pi}}exp({-\frac{(x-\mu)^2}{2\s
 - [Normal Distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 ---
 **Materials:**
-[[Basic Math]]
+[[Basic Math.md]]
